@@ -9,9 +9,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/ohgiraffers_db?serverTimezone=Asia/Seoul
-    username: ohgiraffers
-    password: ohgiraffers
+    url: jdbc:mysql://localhost:3306/fourman_db?serverTimezone=Asia/Seoul
+    username: fourmanadmin
+    password: fourman
 
   jpa:
     hibernate:

@@ -24,18 +24,9 @@ public class Post {
 
     private String uNickname;
 
-    private Long fId;
+    private Long fId; // 사진
 
-    private String category;
-
-    private Long cId;  // 댓글
-
-    private String pTitle;
-
-    private String pContent;
-
-    private Long pViews;
-
+    private String category; // 카테고리
     private LocalDateTime pDate;
 
 }

@@ -16,7 +16,7 @@ public class CreatePostResponseDTO {
 
     private Long fId;
 
-    private Long kId;
+    private String category;
 
     private Long cId;
 

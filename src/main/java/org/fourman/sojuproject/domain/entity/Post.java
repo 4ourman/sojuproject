@@ -26,9 +26,9 @@ public class Post {
 
     private Long fId;
 
-    private Long kId;
+    private String category;
 
-    private Long cId;
+    private Long cId;  // 댓글
 
     private String pTitle;
 

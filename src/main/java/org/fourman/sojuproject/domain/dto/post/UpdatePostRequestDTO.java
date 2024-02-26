@@ -14,4 +14,6 @@ public class UpdatePostRequestDTO {
 
     private String pContent;
 
+    private String category;
+
 }

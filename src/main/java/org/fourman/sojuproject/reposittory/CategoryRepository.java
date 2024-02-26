@@ -1,6 +1,5 @@
 package org.fourman.sojuproject.reposittory;
 
-import org.fourman.sojuproject.domain.entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CategoryRepository extends JpaRepository<Category, String> {

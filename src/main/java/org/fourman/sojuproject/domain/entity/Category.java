@@ -25,7 +25,7 @@ public class Category {
 
     @Id
     @GeneratedValue
-    private String cockail;
+    private String cocktail;
 
     @Id
     @GeneratedValue
